@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nw2KAXMC5GNO1l+dsbHuXHSzcws0eREEhvHMPIvAO6gm//2ILn2uog4D5XrdezoNrlhJIctM5eavJpmUa9Hoxw==",
+  "dgSpecHash": "e9MhUFJBKcG4QMRG9smhoXJcZ7c56zdJ52vl78LrHJh55M8htefNWnGQtR9WDMAKPfE5VcD3J1WhranOPG2rHA==",
   "success": true,
-  "projectFilePath": "C:\\tp\\tp2-stockapp\\StockApp\\StockApp.Infra.IoC\\StockApp.Infra.IoC.csproj",
+  "projectFilePath": "C:\\TP\\tp2-stockapp\\StockApp\\StockApp.Infra.IoC\\StockApp.Infra.IoC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
