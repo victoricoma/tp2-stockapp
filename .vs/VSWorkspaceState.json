@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\StockApp"
+    "\\StockApp",
+    "\\StockApp\\StockApp.Domain"
   ],
   "PreviewInSolutionExplorer": false
 }
