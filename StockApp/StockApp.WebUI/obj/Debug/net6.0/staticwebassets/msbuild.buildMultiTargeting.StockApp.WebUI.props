@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\StockApp.WebUI.props" />
+</Project>

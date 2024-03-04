@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StockApp.Infra.IoC/1.0.0": {
+        "dependencies": {
+          "StockApp.Application": "1.0.0",
+          "StockApp.Domain": "1.0.0",
+          "StockApp.Infra.Data": "1.0.0"
+        },
+        "runtime": {
+          "StockApp.Infra.IoC.dll": {}
+        }
+      },
+      "StockApp.Application/1.0.0": {
+        "dependencies": {
+          "StockApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "StockApp.Application.dll": {}
+        }
+      },
+      "StockApp.Domain/1.0.0": {
+        "runtime": {
+          "StockApp.Domain.dll": {}
+        }
+      },
+      "StockApp.Infra.Data/1.0.0": {
+        "dependencies": {
+          "StockApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "StockApp.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StockApp.Infra.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockApp.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

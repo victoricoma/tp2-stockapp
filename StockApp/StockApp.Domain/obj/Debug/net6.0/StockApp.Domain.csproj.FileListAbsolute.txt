@@ -1,0 +1,12 @@
+C:\tp\tp2-stockapp\StockApp\StockApp.Domain\bin\Debug\net6.0\StockApp.Domain.deps.json
+C:\tp\tp2-stockapp\StockApp\StockApp.Domain\bin\Debug\net6.0\StockApp.Domain.dll
+C:\tp\tp2-stockapp\StockApp\StockApp.Domain\bin\Debug\net6.0\StockApp.Domain.pdb
+C:\tp\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\StockApp.Domain.csproj.AssemblyReference.cache
+C:\tp\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\StockApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\tp\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\StockApp.Domain.AssemblyInfoInputs.cache
+C:\tp\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\StockApp.Domain.AssemblyInfo.cs
+C:\tp\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\StockApp.Domain.csproj.CoreCompileInputs.cache
+C:\tp\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\StockApp.Domain.dll
+C:\tp\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\refint\StockApp.Domain.dll
+C:\tp\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\StockApp.Domain.pdb
+C:\tp\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\ref\StockApp.Domain.dll
