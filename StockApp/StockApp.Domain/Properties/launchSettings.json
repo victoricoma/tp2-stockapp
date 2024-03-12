@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "StockApp.Domain": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMET": "Development"
+      },
+      "applicationUrl": "https://localhost:51204;https://localhost:51205"  
+    }
+  }
+}

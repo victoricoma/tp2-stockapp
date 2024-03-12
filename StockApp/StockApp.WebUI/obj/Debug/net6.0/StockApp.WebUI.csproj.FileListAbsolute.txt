@@ -38,3 +38,15 @@ C:\tp\tp2-stockapp\StockApp\StockApp.WebUI\obj\Debug\net6.0\refint\StockApp.WebU
 C:\tp\tp2-stockapp\StockApp\StockApp.WebUI\obj\Debug\net6.0\StockApp.WebUI.pdb
 C:\tp\tp2-stockapp\StockApp\StockApp.WebUI\obj\Debug\net6.0\StockApp.WebUI.genruntimeconfig.cache
 C:\tp\tp2-stockapp\StockApp\StockApp.WebUI\obj\Debug\net6.0\ref\StockApp.WebUI.dll
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.WebUI\obj\Debug\net6.0\StockApp.WebUI.csproj.AssemblyReference.cache
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.WebUI\obj\Debug\net6.0\StockApp.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.WebUI\obj\Debug\net6.0\StockApp.WebUI.AssemblyInfoInputs.cache
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.WebUI\obj\Debug\net6.0\StockApp.WebUI.AssemblyInfo.cs
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.WebUI\obj\Debug\net6.0\StockApp.WebUI.csproj.CoreCompileInputs.cache
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.WebUI\obj\Debug\net6.0\StockApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.WebUI\obj\Debug\net6.0\StockApp.WebUI.RazorAssemblyInfo.cache
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.WebUI\obj\Debug\net6.0\StockApp.WebUI.RazorAssemblyInfo.cs
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.WebUI\obj\Debug\net6.0\StockApp.WebUI.sourcelink.json
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.WebUI\obj\Debug\net6.0\StockApp.WebUI.dll
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.WebUI\obj\Debug\net6.0\refint\StockApp.WebUI.dll
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.WebUI\obj\Debug\net6.0\StockApp.WebUI.pdb

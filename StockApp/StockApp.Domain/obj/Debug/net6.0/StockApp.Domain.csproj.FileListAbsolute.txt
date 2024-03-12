@@ -10,3 +10,11 @@ C:\tp\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\StockApp.Domain.dll
 C:\tp\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\refint\StockApp.Domain.dll
 C:\tp\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\StockApp.Domain.pdb
 C:\tp\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\ref\StockApp.Domain.dll
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\StockApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\StockApp.Domain.AssemblyInfoInputs.cache
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\StockApp.Domain.AssemblyInfo.cs
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\StockApp.Domain.csproj.CoreCompileInputs.cache
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\StockApp.Domain.sourcelink.json
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\StockApp.Domain.dll
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\refint\StockApp.Domain.dll
+C:\SubirCódigo\tp2-stockapp\StockApp\StockApp.Domain\obj\Debug\net6.0\StockApp.Domain.pdb

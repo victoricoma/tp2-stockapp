@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SubirC\u00F3digo\\tp2-stockapp\\StockApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DADE10E9-F98B-49C2-8D00-F97F479B7503}|StockApp.Domain\\StockApp.Domain.csproj|c:\\subirc\u00F3digo\\tp2-stockapp\\stockapp\\stockapp.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADE10E9-F98B-49C2-8D00-F97F479B7503}|StockApp.Domain\\StockApp.Domain.csproj|solutionrelative:stockapp.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADE10E9-F98B-49C2-8D00-F97F479B7503}|StockApp.Domain\\StockApp.Domain.csproj|c:\\subirc\u00F3digo\\tp2-stockapp\\stockapp\\stockapp.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADE10E9-F98B-49C2-8D00-F97F479B7503}|StockApp.Domain\\StockApp.Domain.csproj|solutionrelative:stockapp.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADE10E9-F98B-49C2-8D00-F97F479B7503}|StockApp.Domain\\StockApp.Domain.csproj|c:\\subirc\u00F3digo\\tp2-stockapp\\stockapp\\stockapp.domain\\stockapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DADE10E9-F98B-49C2-8D00-F97F479B7503}|StockApp.Domain\\StockApp.Domain.csproj|solutionrelative:stockapp.domain\\stockapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADE10E9-F98B-49C2-8D00-F97F479B7503}|StockApp.Domain\\StockApp.Domain.csproj|c:\\subirc\u00F3digo\\tp2-stockapp\\stockapp\\stockapp.domain\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DADE10E9-F98B-49C2-8D00-F97F479B7503}|StockApp.Domain\\StockApp.Domain.csproj|solutionrelative:stockapp.domain\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\SubirC\u00F3digo\\tp2-stockapp\\StockApp\\StockApp.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "StockApp.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\SubirC\u00F3digo\\tp2-stockapp\\StockApp\\StockApp.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "StockApp.Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T04:30:30.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockApp.Domain.csproj",
+              "DocumentMoniker": "C:\\SubirC\u00F3digo\\tp2-stockapp\\StockApp\\StockApp.Domain\\StockApp.Domain.csproj",
+              "RelativeDocumentMoniker": "StockApp.Domain\\StockApp.Domain.csproj",
+              "ToolTip": "C:\\SubirC\u00F3digo\\tp2-stockapp\\StockApp\\StockApp.Domain\\StockApp.Domain.csproj",
+              "RelativeToolTip": "StockApp.Domain\\StockApp.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-12T05:30:15.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\SubirC\u00F3digo\\tp2-stockapp\\StockApp\\StockApp.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "StockApp.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\SubirC\u00F3digo\\tp2-stockapp\\StockApp\\StockApp.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "StockApp.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAkwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T05:15:13.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\SubirC\u00F3digo\\tp2-stockapp\\StockApp\\StockApp.Domain\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StockApp.Domain\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\SubirC\u00F3digo\\tp2-stockapp\\StockApp\\StockApp.Domain\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StockApp.Domain\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T05:33:58.242Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
