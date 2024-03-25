@@ -13,3 +13,5 @@ C:\tp\tp2-stockapp\StockApp\StockApp.Infra.Data\obj\Debug\net6.0\StockApp.Infra.
 C:\tp\tp2-stockapp\StockApp\StockApp.Infra.Data\obj\Debug\net6.0\refint\StockApp.Infra.Data.dll
 C:\tp\tp2-stockapp\StockApp\StockApp.Infra.Data\obj\Debug\net6.0\StockApp.Infra.Data.pdb
 C:\tp\tp2-stockapp\StockApp\StockApp.Infra.Data\obj\Debug\net6.0\ref\StockApp.Infra.Data.dll
+C:\tp\tp2-stockapp\StockApp\StockApp.Infra.Data\bin\Debug\net6.0\StockApp.Infra.Data.runtimeconfig.json
+C:\tp\tp2-stockapp\StockApp\StockApp.Infra.Data\obj\Debug\net6.0\StockApp.Infra.Data.genruntimeconfig.cache
